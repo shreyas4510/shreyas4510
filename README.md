@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Software Engineer with 4+ years of experience driving transformative software solutions across various domains. Proven track record of delivering high-impact, maintainable code through clear, concise programming<br>and innovative problem-solving. Adept at leading development teams to build and scale integrated full-stack<br>applications, leveraging expertise in JavaScript, TypeScript, Node.js, and React.js. I am looking to collaborate to open source project to enhance my skills. 
+Senior Software Engineer with 4+ years of experience driving transformative software solutions across various domains. Proven track record of delivering high-impact, maintainable code through clear, concise programming and innovative problem-solving. Adept at leading development teams to build and scale integrated full-stack applications, leveraging expertise in JavaScript, TypeScript, Node.js, and React.js. I am looking to collaborate to open source project to enhance my skills. 
 
 
 ## 🌐 Socials:
